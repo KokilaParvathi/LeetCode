@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0136-single-number) |
 | [2350-find-closest-number-to-zero](https://github.com/KokilaParvathi/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

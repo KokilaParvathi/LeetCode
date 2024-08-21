@@ -6,8 +6,8 @@ bool isIsomorphic(char* s, char* t) {
         return false;  
     }
 
-   for (short i = 0; i < len1; i++) {
-        for (short j = i + 1; j < len2; j++) {
+   for (int i = 0; i < len1; i++) {
+        for (int j = i + 1; j < len2; j++) {
             if (s[i] == s[j]) {
                 if (t[i] != t[j]) {
                     c = 0;

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/KokilaParvathi/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KokilaParvathi/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/KokilaParvathi/LeetCode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0507-perfect-number) |
 | [2507-number-of-common-factors](https://github.com/KokilaParvathi/LeetCode/tree/master/2507-number-of-common-factors) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/KokilaParvathi/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KokilaParvathi/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/KokilaParvathi/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

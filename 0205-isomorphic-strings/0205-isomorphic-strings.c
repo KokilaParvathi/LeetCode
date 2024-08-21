@@ -1,6 +1,6 @@
 bool isIsomorphic(char* s, char* t) {
-    int len1=strlen(s);
-    int len2=strlen(t);
+    short len1=strlen(s);
+    short len2=strlen(t);
     short c=1;
     if (len1 != len2) {
         return false;  

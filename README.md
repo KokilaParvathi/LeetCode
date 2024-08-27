@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KokilaParvathi/LeetCode/tree/master/0169-majority-element) |
+| [0724-find-pivot-index](https://github.com/KokilaParvathi/LeetCode/tree/master/0724-find-pivot-index) |
 | [2350-find-closest-number-to-zero](https://github.com/KokilaParvathi/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sorting
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/KokilaParvathi/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/KokilaParvathi/LeetCode/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/KokilaParvathi/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

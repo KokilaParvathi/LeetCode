@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KokilaParvathi/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/KokilaParvathi/LeetCode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/KokilaParvathi/LeetCode/tree/master/0792-binary-search) |
 | [1137-height-checker](https://github.com/KokilaParvathi/LeetCode/tree/master/1137-height-checker) |
 | [2350-find-closest-number-to-zero](https://github.com/KokilaParvathi/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KokilaParvathi/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KokilaParvathi/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/KokilaParvathi/LeetCode/tree/master/0792-binary-search) |
 ## Recursion
 |  |
 | ------- |

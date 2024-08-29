@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/KokilaParvathi/LeetCode/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KokilaParvathi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KokilaParvathi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

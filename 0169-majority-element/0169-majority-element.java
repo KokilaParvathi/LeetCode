@@ -16,11 +16,7 @@ class Solution {
                 count++;
             }
         }
+        return candidate;
 
-        if (count > nums.length / 2) {
-            return candidate;
-        } else {
-            throw new IllegalArgumentException("No majority element found");
-        }
     }
 }

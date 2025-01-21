@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KokilaParvathi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/KokilaParvathi/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/KokilaParvathi/LeetCode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KokilaParvathi/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

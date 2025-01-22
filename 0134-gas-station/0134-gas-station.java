@@ -12,6 +12,6 @@ class Solution {
                     startindex++;
         }
        } 
-     return ((totalgas>=totalcost)?startindex%gas.length:-1);
+     return ((totalgas>=totalcost)?startindex:-1);
     }
 }

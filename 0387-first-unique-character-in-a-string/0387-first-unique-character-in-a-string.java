@@ -11,11 +11,8 @@ class Solution {
         }
 
         for(int i=0;i<arr.length;i++){
-            if(map.get(arr[i])>1)
-            q.poll();
-            else if(map.get(arr[i])==1){
-                return i;
-            }
+            if(map.get(arr[i])==1) return i;
+            else q.poll();
         }
         return -1;
     }

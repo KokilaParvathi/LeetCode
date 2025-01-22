@@ -10,16 +10,13 @@ class Solution {
             totalGas += gas[i];
             totalCost += cost[i];
             currGas += gas[i] - cost[i];
-
-            queue.add(i); // Store station index as a potential start point
-
-            // If current gas goes negative, reset the queue
+            queue.add(i); 
             if (currGas < 0) {
                 while (!queue.isEmpty()) {
-                    queue.poll(); // Remove invalid start points
+                    queue.poll(); 
                 }
-                currGas = 0; // Reset fuel balance
-                startIndex = i + 1; // Move to next station
+                currGas = 0; 
+                startIndex = i + 1; 
             }
         }
 

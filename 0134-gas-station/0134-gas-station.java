@@ -1,22 +1,17 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        int totalGas = 0, totalCost = 0, currGas = 0, startIndex = 0;
-        Queue<Integer> queue = new LinkedList<>();
-        
-        for (int i = 0; i < gas.length; i++) {
-            totalGas += gas[i];
-            totalCost += cost[i];
-            currGas += gas[i] - cost[i];
-            queue.add(i); 
-            if (currGas < 0) {
-                while (!queue.isEmpty()) {
-                    queue.poll(); 
-                }
-                currGas = 0; 
-                startIndex = i + 1; 
-            }
+        Queue<Integer> q =new LinkedList<>();
+        int currgas=0,startindex=0,totalcost=0,totalgas=0;
+       for(int i=0;i<gas.length;i++){
+        totalcost+=cost[i];
+        totalgas+=gas[i];
+        currgas += gas[i]-cost[i];
+        q.add(gas[i]-cost[i]);
+        while(currgas<0 && !q.isEmpty()){
+                    currgas-=q.poll();
+                    startindex++;
         }
-
-        return (totalGas >= totalCost) ? (queue.isEmpty() ? startIndex : queue.peek()) : -1;
+       } 
+     return ((totalgas>=totalcost)?startindex%gas.length:-1);
     }
 }

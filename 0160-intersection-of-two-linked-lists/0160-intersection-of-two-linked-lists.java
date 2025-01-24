@@ -28,6 +28,6 @@ public class Solution {
             ptr2=ptr2.next;
             }
         }
-        return ptr1;
+        return (ptr1==ptr2)?ptr1:null;
     }
 }

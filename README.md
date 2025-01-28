@@ -174,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0101-symmetric-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0101-symmetric-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0101-symmetric-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Heap (Priority Queue)
 |  |

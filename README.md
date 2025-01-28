@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KokilaParvathi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/KokilaParvathi/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KokilaParvathi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/KokilaParvathi/LeetCode/tree/master/0739-daily-temperatures) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |

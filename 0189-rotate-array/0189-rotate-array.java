@@ -2,7 +2,7 @@ class Solution {
     public void rotate(int[] nums, int k) {
         Queue<Integer> queue = new LinkedList<>();
         int d= k%nums.length;
-        if(nums.length==1) return;
+       if(nums.length==1) return;
        for(int itr = nums.length-d;itr<nums.length;itr++){
         queue.add(nums[itr]);
        }

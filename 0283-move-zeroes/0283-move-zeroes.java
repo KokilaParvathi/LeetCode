@@ -1,11 +1,13 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-      int[] arr = Arrays.copyOf(nums,nums.length);
-      Arrays.fill(nums, 0);
-      int index=0;
+      Queue<Integer> q = new LinkedList<>();
+      int index = 0;
       for(int itr=0;itr<nums.length;itr++){
-        if(arr[itr]!=0)
-        nums[index++]=arr[itr];
-      }  
+        if(nums[itr]!=0) q.add(nums[itr]);
+      }
+      Arrays.fill(nums,0);
+      while(!q.isEmpty()){
+        nums[index++]=q.poll();
+      }
     }
 }

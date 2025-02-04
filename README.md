@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/KokilaParvathi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KokilaParvathi/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/KokilaParvathi/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2350-find-closest-number-to-zero](https://github.com/KokilaParvathi/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KokilaParvathi/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |

@@ -1,5 +1,5 @@
 class Solution {
-    public int fibi(int n){
+    private int fibi(int n){
         if(n<=1)
         return n;
     return fibi(n-1)+fibi(n-2);

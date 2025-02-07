@@ -1,18 +1,14 @@
 class Solution {
     public boolean areNumbersAscending(String s) {
-      Queue<Integer> q = new LinkedList<>();
+      int prev = Integer.MIN_VALUE;
       
       for (String num : s.split(" ")) { 
-            if (num.matches("\\d+")) q.add(Integer.parseInt(num));
+            if (num.matches("\\d+")){
+                int curr = Integer.parseInt(num);
+                if(prev>=curr) return false;
+                prev = curr;
+            } 
         }
-
-      int prev=q.poll();
-      
-      while(!q.isEmpty()){
-        int curr = q.poll(); 
-        if(prev >= curr) return false;
-        prev = curr;
-      }
       return true; 
     }
 }

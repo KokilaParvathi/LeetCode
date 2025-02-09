@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/KokilaParvathi/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/KokilaParvathi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/KokilaParvathi/LeetCode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/KokilaParvathi/LeetCode/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/KokilaParvathi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KokilaParvathi/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KokilaParvathi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/KokilaParvathi/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KokilaParvathi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1013-fibonacci-number) |

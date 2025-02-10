@@ -24,7 +24,6 @@ class Solution {
                 i++;
             } 
         }
-        if (i == 0) return true;
 
         return checkpalindrome(filtered,i);
     }

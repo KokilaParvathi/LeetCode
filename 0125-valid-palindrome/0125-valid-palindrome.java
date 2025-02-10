@@ -16,7 +16,7 @@ class Solution {
     public boolean isPalindrome(String s) {
     char[] charArray = s.toCharArray();
     char[] filtered = new char[s.length()];
-        int i = 0;
+    int i = 0;
     
         for (char c : charArray) {
             if(Character.isLetterOrDigit(c)){
@@ -24,7 +24,8 @@ class Solution {
                 i++;
             } 
         }
-        
+        if (i == 0) return true;
+
         return checkpalindrome(filtered,i);
     }
 }

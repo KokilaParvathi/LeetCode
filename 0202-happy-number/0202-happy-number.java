@@ -1,7 +1,7 @@
 public class Solution {
     public boolean isHappy(int n) {
-        if(n==7 || n == 1111111 || n == 101120) return true;
-        while (n >= 10) {
+
+        while (n > 4) {
             n = sumOfSquares(n);
         }
         return n == 1;

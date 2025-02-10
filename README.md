@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KokilaParvathi/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/KokilaParvathi/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/KokilaParvathi/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3447-clear-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KokilaParvathi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/KokilaParvathi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [3447-clear-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KokilaParvathi/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |

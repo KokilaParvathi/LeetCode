@@ -1,6 +1,5 @@
 public class Solution {
     public boolean isHappy(int n) {
-
         while (n > 4) {
             n = sumOfSquares(n);
         }

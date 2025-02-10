@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2350-find-closest-number-to-zero](https://github.com/KokilaParvathi/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KokilaParvathi/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KokilaParvathi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KokilaParvathi/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0392-is-subsequence) |
+| [2551-apply-operations-to-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KokilaParvathi/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack

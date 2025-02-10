@@ -19,7 +19,7 @@ class Solution {
         int i = 0;
     
         for (char c : charArray) {
-            if(Character.isLetter(c) || Character.isLetterOrDigit(c)){
+            if(Character.isLetterOrDigit(c)){
                 filtered[i] = Character.toLowerCase(c);
                 i++;
             } 

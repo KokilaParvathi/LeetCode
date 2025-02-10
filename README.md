@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KokilaParvathi/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KokilaParvathi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KokilaParvathi/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KokilaParvathi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KokilaParvathi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KokilaParvathi/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/KokilaParvathi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KokilaParvathi/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0268-missing-number) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KokilaParvathi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KokilaParvathi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/KokilaParvathi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KokilaParvathi/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0392-is-subsequence) |

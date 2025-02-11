@@ -11,7 +11,7 @@ class Solution {
         else map.put(arr1[itr] , arr2[itr]);
       }
       else{
-        if(!map.get(arr1[itr]).equals(arr2[itr])) return false;
+        if( !map.get(arr1[itr]).equals(arr2[itr])) return false;
       }
     }
     return true;

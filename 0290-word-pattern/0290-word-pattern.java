@@ -1,12 +1,10 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
+    HashMap<Character,String> map = new HashMap<>();
     char[] arr = pattern.toCharArray();
     String[] str = s.split("\\s+");
     if(arr.length != str.length) return false;
     
-    HashMap<Character,String> map = new HashMap<>();
-    map.put(arr[0],str[0]);
-
     for(int itr = 0; itr < arr.length; itr++){
     if(!map.containsKey(arr[itr])){
         if(map.containsValue(str[itr])) return false;

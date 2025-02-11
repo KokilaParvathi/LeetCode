@@ -12,12 +12,9 @@ class Solution {
         if(map.containsValue(str[itr])) return false;
         else map.put(arr[itr],str[itr]);
     }
-    else{
-     String a = map.get(arr[itr]);
-     if(!a.equals(str[itr])) return false;  
-    } 
+    else if(!(map.get(arr[itr]).equals(str[itr])))return false;  
+     
     }
-
     return true;  
     }
 }

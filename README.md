@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/KokilaParvathi/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/KokilaParvathi/LeetCode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/KokilaParvathi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/KokilaParvathi/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KokilaParvathi/LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/KokilaParvathi/LeetCode/tree/master/1137-height-checker) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KokilaParvathi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KokilaParvathi/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Counting Sort
 |  |

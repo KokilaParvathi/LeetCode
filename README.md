@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1013-fibonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2507-number-of-common-factors](https://github.com/KokilaParvathi/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2752-sum-multiples](https://github.com/KokilaParvathi/LeetCode/tree/master/2752-sum-multiples) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
 ## Array
 |  |

@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KokilaParvathi/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0392-is-subsequence) |
+| [0742-to-lower-case](https://github.com/KokilaParvathi/LeetCode/tree/master/0742-to-lower-case) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KokilaParvathi/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/KokilaParvathi/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KokilaParvathi/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |

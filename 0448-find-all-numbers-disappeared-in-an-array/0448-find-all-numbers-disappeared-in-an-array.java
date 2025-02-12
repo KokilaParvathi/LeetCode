@@ -6,6 +6,7 @@ class Solution {
     for(int num: nums){
         hs.add(num);
     }
+    
     int i =1;
     for(int num: nums){
     if(!hs.contains(i)) ans.add(i);

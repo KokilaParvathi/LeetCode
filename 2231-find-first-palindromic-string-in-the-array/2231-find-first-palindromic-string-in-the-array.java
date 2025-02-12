@@ -13,10 +13,9 @@ class Solution {
 
     public String firstPalindrome(String[] words) {
     for(String str:words){
-    if(palin(str)) return str;
-    else continue;   
+    if(palin(str)) return str; 
     } 
-
+    
     return "";  
     }
 }

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KokilaParvathi/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2507-number-of-common-factors](https://github.com/KokilaParvathi/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/KokilaParvathi/LeetCode/tree/master/2752-sum-multiples) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KokilaParvathi/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/KokilaParvathi/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/KokilaParvathi/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |

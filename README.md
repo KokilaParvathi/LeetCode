@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KokilaParvathi/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0507-perfect-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/KokilaParvathi/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Bit Manipulation
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KokilaParvathi/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2551-apply-operations-to-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KokilaParvathi/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |

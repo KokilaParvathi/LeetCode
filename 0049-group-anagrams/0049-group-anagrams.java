@@ -1,6 +1,6 @@
 class Solution {
     public boolean check(String a, String b) {
-        if (a.length() != b.length()) return false; // Length check first
+        if (a.length() != b.length()) return false;
 
         char[] arr1 = a.toCharArray();
         char[] arr2 = b.toCharArray();
@@ -16,16 +16,16 @@ class Solution {
         Arrays.fill(visited, 0);
 
         for (int i = 0; i < strs.length; i++) {
-            if (visited[i] == 1) continue; // Skip already grouped words
+            if (visited[i] == 1) continue; 
 
             List<String> ans = new ArrayList<>();
             ans.add(strs[i]);
-            visited[i] = 1; // Mark as visited
+            visited[i] = 1; 
 
             for (int j = i + 1; j < strs.length; j++) {
                 if (visited[j] == 0 && check(strs[i], strs[j])) {
                     ans.add(strs[j]);
-                    visited[j] = 1; // Mark as visited
+                    visited[j] = 1; 
                 }
             }
 

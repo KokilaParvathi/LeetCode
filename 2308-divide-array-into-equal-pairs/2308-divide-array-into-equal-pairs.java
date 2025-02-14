@@ -7,7 +7,7 @@ class Solution {
         if(nums[i-1] == nums[i]) paircount++;
         else return false;
     }   
-
+    
     return true;
     }
 }

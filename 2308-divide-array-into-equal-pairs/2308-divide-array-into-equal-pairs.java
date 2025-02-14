@@ -4,10 +4,9 @@ class Solution {
     int paircount = 0;
 
     for(int i = 1; i < nums.length ;i=i+2){
-        if(nums[i-1] == nums[i]) paircount++;
-        else return false;
+        if(nums[i-1] != nums[i]) return false;
     }   
-    
+
     return true;
     }
 }

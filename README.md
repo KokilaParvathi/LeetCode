@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KokilaParvathi/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/KokilaParvathi/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3194-find-words-containing-character](https://github.com/KokilaParvathi/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/KokilaParvathi/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/3447-clear-digits) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KokilaParvathi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KokilaParvathi/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/KokilaParvathi/LeetCode/tree/master/0134-gas-station) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Linked List
 |  |
 | ------- |
@@ -490,5 +493,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/KokilaParvathi/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KokilaParvathi/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/KokilaParvathi/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->

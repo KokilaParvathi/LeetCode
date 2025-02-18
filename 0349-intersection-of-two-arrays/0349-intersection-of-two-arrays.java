@@ -3,12 +3,12 @@ class Solution {
     HashSet<Integer> hs = new HashSet<>();
     HashSet<Integer> hs1 = new HashSet<>();
 
-    for(int num: nums1){
-        hs.add(num);
-    }
-    for(int num: nums2){
-        hs1.add(num);
-    }
+        for(int num: nums1){
+            hs.add(num);
+        }
+        for(int num: nums2){
+            hs1.add(num);
+        }
 
         hs.retainAll(hs1);  
 

@@ -12,6 +12,6 @@ class Solution {
         
     }
 
-    return countup== 0 && countleft == 0;
+    return countup == 0 && countleft == 0;
     }
 }

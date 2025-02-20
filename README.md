@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/KokilaParvathi/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2107-find-unique-binary-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KokilaParvathi/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KokilaParvathi/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/KokilaParvathi/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KokilaParvathi/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/KokilaParvathi/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2107-find-unique-binary-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/KokilaParvathi/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KokilaParvathi/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/KokilaParvathi/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KokilaParvathi/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/KokilaParvathi/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KokilaParvathi/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/KokilaParvathi/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KokilaParvathi/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KokilaParvathi/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/KokilaParvathi/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String Matching

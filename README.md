@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/KokilaParvathi/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/KokilaParvathi/LeetCode/tree/master/0742-to-lower-case) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/KokilaParvathi/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KokilaParvathi/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KokilaParvathi/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Heap (Priority Queue)

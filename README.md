@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KokilaParvathi/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KokilaParvathi/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/KokilaParvathi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/KokilaParvathi/LeetCode/tree/master/0645-set-mismatch) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KokilaParvathi/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KokilaParvathi/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/KokilaParvathi/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/KokilaParvathi/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/KokilaParvathi/LeetCode/tree/master/0817-design-hashmap) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KokilaParvathi/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0392-is-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KokilaParvathi/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/KokilaParvathi/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/KokilaParvathi/LeetCode/tree/master/0742-to-lower-case) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |

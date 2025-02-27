@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/KokilaParvathi/LeetCode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/KokilaParvathi/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/KokilaParvathi/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/KokilaParvathi/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KokilaParvathi/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KokilaParvathi/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/KokilaParvathi/LeetCode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/KokilaParvathi/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/KokilaParvathi/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2873-prime-pairs-with-target-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |

@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KokilaParvathi/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/KokilaParvathi/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KokilaParvathi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1791-richest-customer-wealth](https://github.com/KokilaParvathi/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/KokilaParvathi/LeetCode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KokilaParvathi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KokilaParvathi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Data Stream
 |  |
 | ------- |

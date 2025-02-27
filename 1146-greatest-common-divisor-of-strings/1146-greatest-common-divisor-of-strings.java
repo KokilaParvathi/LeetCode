@@ -6,7 +6,6 @@ class Solution {
         }
     
         int gcdLength = gcd(str1.length(), str2.length());
-        
         return str1.substring(0, gcdLength);
     }
 

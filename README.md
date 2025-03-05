@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/KokilaParvathi/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/KokilaParvathi/LeetCode/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/KokilaParvathi/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/KokilaParvathi/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/KokilaParvathi/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/KokilaParvathi/LeetCode/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KokilaParvathi/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KokilaParvathi/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KokilaParvathi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |

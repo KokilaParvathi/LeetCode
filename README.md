@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/KokilaParvathi/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1115-valid-boomerang](https://github.com/KokilaParvathi/LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/KokilaParvathi/LeetCode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/KokilaParvathi/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/KokilaParvathi/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/KokilaParvathi/LeetCode/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KokilaParvathi/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KokilaParvathi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/KokilaParvathi/LeetCode/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/KokilaParvathi/LeetCode/tree/master/0605-can-place-flowers) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/KokilaParvathi/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Linked List
 |  |

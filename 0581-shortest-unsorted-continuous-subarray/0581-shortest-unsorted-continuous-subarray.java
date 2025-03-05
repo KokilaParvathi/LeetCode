@@ -7,11 +7,10 @@ class Solution {
             pq.add(num);
         }
 
-        int start = -1,end = -1,flag=0;
+        int flag=0;
 
         for(int i = 0;i< nums.length;i++){
             if(nums[i] != pq.poll()){
-                
                 if(flag > 1){
                  arr[1] = i;   
                 }  

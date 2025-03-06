@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/KokilaParvathi/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2873-prime-pairs-with-target-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KokilaParvathi/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/KokilaParvathi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KokilaParvathi/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Array
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/KokilaParvathi/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3194-find-words-containing-character](https://github.com/KokilaParvathi/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/KokilaParvathi/LeetCode/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/KokilaParvathi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KokilaParvathi/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/KokilaParvathi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KokilaParvathi/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/KokilaParvathi/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/KokilaParvathi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |

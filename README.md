@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1677-matrix-diagonal-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/KokilaParvathi/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KokilaParvathi/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-sum-of-unique-elements](https://github.com/KokilaParvathi/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/KokilaParvathi/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/KokilaParvathi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation

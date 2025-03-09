@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/KokilaParvathi/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KokilaParvathi/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KokilaParvathi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/KokilaParvathi/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/KokilaParvathi/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/3447-clear-digits) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KokilaParvathi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KokilaParvathi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Data Stream
 |  |
 | ------- |

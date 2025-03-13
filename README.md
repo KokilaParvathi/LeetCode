@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/KokilaParvathi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KokilaParvathi/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/KokilaParvathi/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KokilaParvathi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/KokilaParvathi/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/KokilaParvathi/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2530-minimize-maximum-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KokilaParvathi/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/KokilaParvathi/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |

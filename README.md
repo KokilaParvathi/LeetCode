@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/KokilaParvathi/LeetCode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/KokilaParvathi/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/KokilaParvathi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/KokilaParvathi/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KokilaParvathi/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/KokilaParvathi/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/KokilaParvathi/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/KokilaParvathi/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/KokilaParvathi/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2530-minimize-maximum-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2530-minimize-maximum-of-array) |

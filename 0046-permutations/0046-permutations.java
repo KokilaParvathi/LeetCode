@@ -4,9 +4,12 @@ class Solution {
         backtrack(nums,result,new ArrayList<>());
         return result;
     }
+
     private void backtrack(int[] nums,List<List<Integer>> result,List<Integer> temp){
         if(temp.size() == nums.length){
+            if(!result.contains(temp)){
             result.add(new ArrayList<>(temp));
+            }
             return;
         }
 

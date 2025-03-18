@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KokilaParvathi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/KokilaParvathi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KokilaParvathi/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KokilaParvathi/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KokilaParvathi/LeetCode/tree/master/0055-jump-game) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KokilaParvathi/LeetCode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KokilaParvathi/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KokilaParvathi/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KokilaParvathi/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0047-permutations-ii) |
 | [1160-letter-tile-possibilities](https://github.com/KokilaParvathi/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KokilaParvathi/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KokilaParvathi/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |

@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KokilaParvathi/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KokilaParvathi/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/KokilaParvathi/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KokilaParvathi/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/KokilaParvathi/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/KokilaParvathi/LeetCode/tree/master/0231-power-of-two) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KokilaParvathi/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/KokilaParvathi/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/KokilaParvathi/LeetCode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/KokilaParvathi/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KokilaParvathi/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KokilaParvathi/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |

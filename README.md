@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KokilaParvathi/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/KokilaParvathi/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/KokilaParvathi/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KokilaParvathi/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KokilaParvathi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KokilaParvathi/LeetCode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KokilaParvathi/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/KokilaParvathi/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KokilaParvathi/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KokilaParvathi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2551-apply-operations-to-an-array) |

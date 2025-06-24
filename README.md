@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/KokilaParvathi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/KokilaParvathi/LeetCode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/KokilaParvathi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KokilaParvathi/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/KokilaParvathi/LeetCode/tree/master/0605-can-place-flowers) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/KokilaParvathi/LeetCode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/KokilaParvathi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KokilaParvathi/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/KokilaParvathi/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/KokilaParvathi/LeetCode/tree/master/0816-design-hashset) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KokilaParvathi/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/KokilaParvathi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KokilaParvathi/LeetCode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KokilaParvathi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |

@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-sum-of-good-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KokilaParvathi/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KokilaParvathi/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/KokilaParvathi/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/KokilaParvathi/LeetCode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KokilaParvathi/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/KokilaParvathi/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/KokilaParvathi/LeetCode/tree/master/2447-merge-similar-items) |
+| [3790-fruits-into-baskets-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
 | ------- |
@@ -816,4 +820,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/KokilaParvathi/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

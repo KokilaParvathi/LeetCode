@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/KokilaParvathi/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KokilaParvathi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/KokilaParvathi/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |

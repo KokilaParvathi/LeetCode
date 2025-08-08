@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/KokilaParvathi/LeetCode/tree/master/0620-not-boring-movies) |
 | [1670-patients-with-a-condition](https://github.com/KokilaParvathi/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KokilaParvathi/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [3782-find-valid-emails](https://github.com/KokilaParvathi/LeetCode/tree/master/3782-find-valid-emails) |
 ## Sliding Window
 |  |
 | ------- |

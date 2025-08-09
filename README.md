@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KokilaParvathi/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KokilaParvathi/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KokilaParvathi/LeetCode/tree/master/0412-fizz-buzz) |
+| [0477-total-hamming-distance](https://github.com/KokilaParvathi/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1013-fibonacci-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KokilaParvathi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0477-total-hamming-distance](https://github.com/KokilaParvathi/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/KokilaParvathi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/KokilaParvathi/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/KokilaParvathi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/KokilaParvathi/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KokilaParvathi/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/KokilaParvathi/LeetCode/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/KokilaParvathi/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/KokilaParvathi/LeetCode/tree/master/0645-set-mismatch) |
 | [1610-xor-operation-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |

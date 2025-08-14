@@ -8,8 +8,6 @@ class Solution {
                     ans = triplet;
             }
         }
-        
         return ans;
-
     }
 }

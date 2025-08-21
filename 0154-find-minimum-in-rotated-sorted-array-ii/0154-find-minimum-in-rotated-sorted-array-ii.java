@@ -3,7 +3,7 @@ class Solution {
         int left = 0, right = arr.length -1;
 
         while(left < right){
-            int mid = left+(right-left)/2;
+            int mid = (left+right)/2;
 
             if(arr[mid] > arr[right])
                 left = mid+1;

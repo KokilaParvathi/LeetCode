@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KokilaParvathi/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/KokilaParvathi/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/KokilaParvathi/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KokilaParvathi/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/KokilaParvathi/LeetCode/tree/master/0461-hamming-distance) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/KokilaParvathi/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/KokilaParvathi/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1013-fibonacci-number) |

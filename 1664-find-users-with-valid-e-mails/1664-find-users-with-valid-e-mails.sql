@@ -1,6 +1,5 @@
 # Write your MySQL query statement below
-select *
-from Users
-where binary right(mail, 13) = '@leetcode.com'
-  and left(mail, length(mail) - 13) regexp '^[A-Za-z][A-Za-z0-9_.-]*$';
-
+SELECT *
+FROM Users
+WHERE mail REGEXP '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode.com$' 
+    and binary right(mail,13) = "@leetcode.com";

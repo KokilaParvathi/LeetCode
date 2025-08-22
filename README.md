@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/KokilaParvathi/LeetCode/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/KokilaParvathi/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/KokilaParvathi/LeetCode/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/KokilaParvathi/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KokilaParvathi/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KokilaParvathi/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3782-find-valid-emails](https://github.com/KokilaParvathi/LeetCode/tree/master/3782-find-valid-emails) |

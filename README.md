@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KokilaParvathi/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/KokilaParvathi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/KokilaParvathi/LeetCode/tree/master/0739-daily-temperatures) |
+| [0777-toeplitz-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/KokilaParvathi/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/KokilaParvathi/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/KokilaParvathi/LeetCode/tree/master/0817-design-hashmap) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/KokilaParvathi/LeetCode/tree/master/0200-number-of-islands) |
+| [0777-toeplitz-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |

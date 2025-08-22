@@ -1,15 +1,47 @@
 class Solution {
-    public int[] sortArray(int[] nums) {
-        PriorityQueue<Integer>pq = new PriorityQueue<>();
+    void merge(int[] arr, int low,int mid,int high){
+        ArrayList<Integer> temp = new ArrayList<>();
 
-        for(int i:nums){
-            pq.add(i);
+        int left = low;
+        int right = mid+1;
+
+         while (left <= mid && right <= high) {
+            if (arr[left] <= arr[right]) {
+                temp.add(arr[left]);
+                left++;
+            } else {
+                temp.add(arr[right]);
+                right++;
+            }
         }
-        int[] result = new int[nums.length];
-        
-        for(int i=0;i<nums.length;i++){
-            result[i] = pq.poll();
+
+        while(right <= high){
+            temp.add(arr[right]);
+            right++;
         }
-        return result;
+
+        while(left <= mid){
+            temp.add(arr[left]);
+            left++;
+        }
+
+         for (int i = low; i <= high; i++) {
+            arr[i] = temp.get(i - low); 
+        }
+
+    }
+
+    void mergesort(int[] arr,int low,int high){
+        if(low >= high) return;
+
+        int mid = (low+high)/2;
+        mergesort(arr,low,mid);
+        mergesort(arr,mid+1,high);
+        merge(arr,low,mid,high);
+    }
+
+    public int[] sortArray(int[] nums) {
+    mergesort(nums,0,nums.length - 1);
+     return nums;   
     }
 }

@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KokilaParvathi/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KokilaParvathi/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/KokilaParvathi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/KokilaParvathi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/KokilaParvathi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KokilaParvathi/LeetCode/tree/master/0046-permutations) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KokilaParvathi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KokilaParvathi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/KokilaParvathi/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/KokilaParvathi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/KokilaParvathi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KokilaParvathi/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KokilaParvathi/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KokilaParvathi/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/KokilaParvathi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/KokilaParvathi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KokilaParvathi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KokilaParvathi/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/KokilaParvathi/LeetCode/tree/master/0077-combinations) |

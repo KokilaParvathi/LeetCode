@@ -10,8 +10,9 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if (lists == null || lists.length == 0) return null;
-        
+        if (lists == null || lists.length == 0)
+            return null;
+
         ListNode result = lists[0];
         for (int i = 1; i < lists.length; i++) {
             result = mergeTwoLists(result, lists[i]);
@@ -33,8 +34,10 @@ class Solution {
             }
             curr = curr.next;
         }
-        if (l1 != null) curr.next = l1;
-        if (l2 != null) curr.next = l2;
+        if (l1 != null)
+            curr.next = l1;
+        if (l2 != null)
+            curr.next = l2;
 
         return dummy.next;
     }

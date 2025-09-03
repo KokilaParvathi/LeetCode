@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KokilaParvathi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KokilaParvathi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/KokilaParvathi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/KokilaParvathi/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KokilaParvathi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/KokilaParvathi/LeetCode/tree/master/0072-edit-distance) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KokilaParvathi/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/KokilaParvathi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/KokilaParvathi/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KokilaParvathi/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KokilaParvathi/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KokilaParvathi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/KokilaParvathi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KokilaParvathi/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KokilaParvathi/LeetCode/tree/master/0070-climbing-stairs) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KokilaParvathi/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/KokilaParvathi/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/KokilaParvathi/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KokilaParvathi/LeetCode/tree/master/0134-gas-station) |

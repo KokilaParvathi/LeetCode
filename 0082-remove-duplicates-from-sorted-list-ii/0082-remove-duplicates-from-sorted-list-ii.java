@@ -8,7 +8,6 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-import java.util.HashMap;
 
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {

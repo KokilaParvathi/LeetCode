@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/KokilaParvathi/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/KokilaParvathi/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KokilaParvathi/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2751-sliding-subarray-beauty](https://github.com/KokilaParvathi/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2873-prime-pairs-with-target-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/KokilaParvathi/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/KokilaParvathi/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/KokilaParvathi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KokilaParvathi/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2751-sliding-subarray-beauty](https://github.com/KokilaParvathi/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [3227-find-missing-and-repeated-values](https://github.com/KokilaParvathi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KokilaParvathi/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/KokilaParvathi/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KokilaParvathi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2751-sliding-subarray-beauty](https://github.com/KokilaParvathi/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |

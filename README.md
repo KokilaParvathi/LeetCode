@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KokilaParvathi/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2050-count-good-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/KokilaParvathi/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/KokilaParvathi/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KokilaParvathi/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KokilaParvathi/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |

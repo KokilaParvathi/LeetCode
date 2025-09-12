@@ -8,11 +8,6 @@ class Solution {
                 list.add(s.charAt(i));
         }
 
-        if (list.size() % 2 == 1)
-            return true;
-        else if (list.size() == 0)
-            return false;
-        else
-            return true;
+        return list.size() == 0 ? false : true;
     }
 }

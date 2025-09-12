@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/KokilaParvathi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/KokilaParvathi/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KokilaParvathi/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3830-find-closest-person](https://github.com/KokilaParvathi/LeetCode/tree/master/3830-find-closest-person) |
 ## Array
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/KokilaParvathi/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3447-clear-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/KokilaParvathi/LeetCode/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -970,10 +972,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/KokilaParvathi/LeetCode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/KokilaParvathi/LeetCode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
 |  |
 | ------- |

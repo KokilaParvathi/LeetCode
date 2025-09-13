@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/KokilaParvathi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/KokilaParvathi/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/KokilaParvathi/LeetCode/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1813-maximum-erasure-value](https://github.com/KokilaParvathi/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KokilaParvathi/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-sum-of-unique-elements](https://github.com/KokilaParvathi/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KokilaParvathi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/KokilaParvathi/LeetCode/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2530-minimize-maximum-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/KokilaParvathi/LeetCode/tree/master/0605-can-place-flowers) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/KokilaParvathi/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/KokilaParvathi/LeetCode/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KokilaParvathi/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2530-minimize-maximum-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/KokilaParvathi/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KokilaParvathi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KokilaParvathi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/KokilaParvathi/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/KokilaParvathi/LeetCode/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1813-maximum-erasure-value](https://github.com/KokilaParvathi/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KokilaParvathi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/2478-longest-nice-subarray) |

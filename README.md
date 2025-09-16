@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/KokilaParvathi/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KokilaParvathi/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KokilaParvathi/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KokilaParvathi/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KokilaParvathi/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KokilaParvathi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/KokilaParvathi/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KokilaParvathi/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2530-minimize-maximum-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KokilaParvathi/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KokilaParvathi/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/KokilaParvathi/LeetCode/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/KokilaParvathi/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KokilaParvathi/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2530-minimize-maximum-of-array](https://github.com/KokilaParvathi/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/KokilaParvathi/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/KokilaParvathi/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/KokilaParvathi/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KokilaParvathi/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KokilaParvathi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/KokilaParvathi/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |

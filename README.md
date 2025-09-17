@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/KokilaParvathi/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KokilaParvathi/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-sliding-subarray-beauty](https://github.com/KokilaParvathi/LeetCode/tree/master/2751-sliding-subarray-beauty) |
+| [2868-continuous-subarrays](https://github.com/KokilaParvathi/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/KokilaParvathi/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/KokilaParvathi/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/KokilaParvathi/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KokilaParvathi/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2868-continuous-subarrays](https://github.com/KokilaParvathi/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/KokilaParvathi/LeetCode/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KokilaParvathi/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2868-continuous-subarrays](https://github.com/KokilaParvathi/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
@@ -903,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KokilaParvathi/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2434-design-a-number-container-system](https://github.com/KokilaParvathi/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/KokilaParvathi/LeetCode/tree/master/2447-merge-similar-items) |
+| [2868-continuous-subarrays](https://github.com/KokilaParvathi/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
@@ -960,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/KokilaParvathi/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2751-sliding-subarray-beauty](https://github.com/KokilaParvathi/LeetCode/tree/master/2751-sliding-subarray-beauty) |
+| [2868-continuous-subarrays](https://github.com/KokilaParvathi/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1033,4 +1038,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KokilaParvathi/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KokilaParvathi/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->

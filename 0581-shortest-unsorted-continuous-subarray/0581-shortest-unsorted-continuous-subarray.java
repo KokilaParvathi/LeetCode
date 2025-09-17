@@ -1,24 +1,24 @@
 class Solution {
     public int findUnsortedSubarray(int[] nums) {
         PriorityQueue<Integer> pq = new PriorityQueue<>();
-        ArrayList<Integer> arr = new ArrayList<>();
-        int k = 0;
+        int[] arr = new int[2];
 
-        for (int num : nums) {
+        for(int num:nums){
             pq.add(num);
         }
 
-        int flag = 0;
+        int flag=0;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != pq.poll()) {
-                arr.add(i);
-                k++;
+        for(int i = 0;i< nums.length;i++){
+            if(nums[i] != pq.poll()){
+                if(flag > 1){
+                 arr[1] = i;   
+                }  
+                else
+                arr[flag++] = i; 
             }
         }
 
-        if (k == 0)
-            return 0;
-        return arr.get(k - 1) - arr.get(0) + 1;
+        return (arr[1]-arr[0]) == 0?0 :arr[1]-arr[0]+1;
     }
 }

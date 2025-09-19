@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KokilaParvathi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/KokilaParvathi/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/KokilaParvathi/LeetCode/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KokilaParvathi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KokilaParvathi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/KokilaParvathi/LeetCode/tree/master/0389-find-the-difference) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/KokilaParvathi/LeetCode/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KokilaParvathi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KokilaParvathi/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KokilaParvathi/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/KokilaParvathi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/KokilaParvathi/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/KokilaParvathi/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/KokilaParvathi/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KokilaParvathi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/KokilaParvathi/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KokilaParvathi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KokilaParvathi/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/KokilaParvathi/LeetCode/tree/master/0647-palindromic-substrings) |

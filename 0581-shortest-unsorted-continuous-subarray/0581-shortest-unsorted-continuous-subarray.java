@@ -11,11 +11,11 @@ class Solution {
 
         for(int i = 0;i< nums.length;i++){
             if(nums[i] != pq.poll()){
-                if(flag == 0){
-                 arr[0] = i; 
-                 flag = 1;}  
+                if(flag > 1){
+                 arr[1] = i;   
+                }  
                 else
-                arr[1] = i; 
+                arr[flag++] = i; 
             }
         }
 

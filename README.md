@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/KokilaParvathi/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/KokilaParvathi/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/KokilaParvathi/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1115-valid-boomerang](https://github.com/KokilaParvathi/LeetCode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/KokilaParvathi/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/KokilaParvathi/LeetCode/tree/master/1137-height-checker) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/KokilaParvathi/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/KokilaParvathi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/KokilaParvathi/LeetCode/tree/master/1086-divisor-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/KokilaParvathi/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/KokilaParvathi/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KokilaParvathi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |

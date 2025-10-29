@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KokilaParvathi/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/KokilaParvathi/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/KokilaParvathi/LeetCode/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/KokilaParvathi/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/KokilaParvathi/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/KokilaParvathi/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |

@@ -14,12 +14,12 @@ class Solution {
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
 
-        for(int num:nums){
+        for (int num : nums) {
             set.add(num);
         }
 
-        while(head != null){
-            if(!set.contains(head.val)){
+        while (head != null) {
+            if (!set.contains(head.val)) {
                 curr.next = new ListNode(head.val);
                 curr = curr.next;
             }

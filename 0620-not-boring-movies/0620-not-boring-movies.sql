@@ -1,3 +1,6 @@
 # Write your MySQL query statement below
-select * from Cinema where mod(id,2) <>0 and
-description not like'boring' order by rating DESC;
+SELECT id, movie, description, rating
+FROM Cinema
+WHERE id % 2 = 1
+  AND description NOT LIKE 'boring'
+ORDER BY rating DESC;

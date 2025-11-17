@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/KokilaParvathi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KokilaParvathi/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/KokilaParvathi/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/KokilaParvathi/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KokilaParvathi/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KokilaParvathi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/KokilaParvathi/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/KokilaParvathi/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/KokilaParvathi/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/KokilaParvathi/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/KokilaParvathi/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KokilaParvathi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/KokilaParvathi/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KokilaParvathi/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |

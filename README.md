@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/KokilaParvathi/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/KokilaParvathi/LeetCode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/KokilaParvathi/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KokilaParvathi/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KokilaParvathi/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/KokilaParvathi/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/KokilaParvathi/LeetCode/tree/master/3830-find-closest-person) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KokilaParvathi/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KokilaParvathi/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KokilaParvathi/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KokilaParvathi/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |

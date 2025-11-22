@@ -1,11 +1,11 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-       int count = 0;
+        int count = 0;
 
-       for(int num:nums){
-        if(num % 3 != 0) count++;
-       } 
+        for (int num : nums)
+            if (num % 3 != 0)
+                count++;
 
-       return count;
+        return count;
     }
 }

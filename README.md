@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/KokilaParvathi/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/KokilaParvathi/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3637-trionic-array-i](https://github.com/KokilaParvathi/LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KokilaParvathi/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/KokilaParvathi/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/KokilaParvathi/LeetCode/tree/master/3723-sum-of-good-numbers) |
